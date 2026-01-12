@@ -20,4 +20,4 @@ This repository contains a Google Earth Engine (GEE) + Python workflow (Colab/Ju
 - (Optional) A trained Random Forest classifier exported to a GEE Asset (if enabled in the notebook).
 
 ## Data
-Data are available on Zenodo at DOI: **TBD**
+Data are available on Zenodo at DOI: 10.5281/zenodo.18225627
